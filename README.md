@@ -1,2 +1,2 @@
-# Repositorio Individual - Lucia Paulina Vargas VillalobosA01199124
+# Repositorio Individual 
 ## Soporte Análitico Para la Toma de Decisiones Grupo 303 
