@@ -39,7 +39,6 @@ Entre las principales líneas de trabajo del reto se encuentran:
 │   │   ├── E1 - Avance Reto Etapa 1.pdf
 │   │   ├── E1 - Avance Reto Etapa 2.pdf
 │   │   ├── E1 - Avance Reto Etapa 3.pdf
-│   │   ├── Etapa2_Exploracion_Descarga_Agua.ipynb
 │   │   └── Modelo_Estrella_PostgresSQL.sql
 │   ├── 01-pokemon-go-analysis.ipynb
 │   ├── 03_colab_bridge.ipynb
@@ -61,7 +60,6 @@ Los archivos específicos del reto se encuentran en [`notebooks/Reto_Agua/`](not
 | `E1 - Avance Reto Etapa 1.pdf` | Evidencia documental de la primera etapa del reto. |
 | `E1 - Avance Reto Etapa 2.pdf` | Evidencia documental de la segunda etapa del reto. |
 | `E1 - Avance Reto Etapa 3.pdf` | Evidencia documental de la tercera etapa del reto. |
-| `Etapa2_Exploracion_Descarga_Agua.ipynb` | Notebook de exploración y análisis de los datos de descargas de agua. |
 | `Modelo_Estrella_PostgresSQL.sql` | Script SQL para la construcción del modelo dimensional en PostgreSQL. |
 
 ## Modelo de datos
